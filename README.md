@@ -1,3 +1,3 @@
 # alx-pre_course
 I'm now a ALX Student, this is my first repository as a full-stack engineer
-A truly non empty README
+Trying to edit, but i am not yet sure how to handle the non empty read me. Honestly, I am not sure where to fing the readme portion of this file
